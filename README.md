@@ -7,5 +7,15 @@
 3. Utilización de variables de entorno para aumentar la seguridad del proyecto realizado en Django
 4. Mapas de leaftlet + django
 5. Vistas basadas en clases
-6. Aplicación con VUE.js + Django + Django RestFramework: blog avanzado - aplicación de control de gastos/consumos de un vehiculo - Tienda online
-7. Curso de github completo
+6. Aplicación con VUE.js + Django + Django RestFramework: 
+      * Blog avanzado:
+          * Posts con comentarios de los lectores
+          * Likes a publicaciones
+          * Formulario de búsqueda de posts      
+      * Aplicación de control de gastos/consumos de un vehiculo:
+          * Registro de consumos de combustible
+          * Registro de recambios de partes mecánicas 
+          * Registro de ingresos por la prestación de servicios con el vehículo 
+          * Sistema de usuarios registrados
+      * Tienda online
+8. Curso de github completo
