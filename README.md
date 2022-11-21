@@ -8,22 +8,22 @@
 4. Mapas de leaftlet + django
 5. Vistas basadas en clases
 6. Aplicación con VUE.js + Django + Django RestFramework: 
-      * Blog avanzado:
+      * **Blog avanzado**:
           * Posts con comentarios de los lectores
           * Likes a publicaciones
           * Formulario de búsqueda de posts      
-      * Aplicación de control de gastos/consumos de un vehiculo:
+      * **Aplicación de control de gastos/consumos de un vehiculo**:
           * Registro de consumos de combustible
           * Registro de recambios de partes mecánicas 
           * Registro de ingresos por la prestación de servicios con el vehículo 
           * Sistema de usuarios registrados
-      * Tienda online:
+      * **Tienda online**:
           * Sistema de usuarios registrados
           * Listado de productos de la Tienda
           * Sección para generar un pedido
           * Chequeo del pedido realizado (modificación de cantidades)
           * Envío de pedido / Notificaciones a la administración de la tienda
-      * Red social:
+      * **Red social**:
           * Sistema de usuarios registrados
           * Posts de usuario
           * Seguir usuarios
