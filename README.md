@@ -17,5 +17,18 @@
           * Registro de recambios de partes mecánicas 
           * Registro de ingresos por la prestación de servicios con el vehículo 
           * Sistema de usuarios registrados
-      * Tienda online
+      * Tienda online:
+          * Sistema de usuarios registrados
+          * Listado de productos de la Tienda
+          * Sección para generar un pedido
+          * Chequeo del pedido realizado (modificación de cantidades)
+          * Envío de pedido / Notificaciones a la administración de la tienda
+       * Red social:
+          * Sistema de usuarios registrados
+          * Posts de usuario
+          * Seguir usuarios
+          * Compartir posts de otros usuarios
+          * Enviar mensajes privados
+          * Sistema de notificaciones
+          * Likes / Dislikes / Cantidad de lecturas  
 8. Curso de github completo
