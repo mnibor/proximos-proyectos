@@ -1,6 +1,6 @@
 # Próximos proyectos
 
-####Un listado simple de los próximos proyectos a tratar en el Canal de YouTube / Udemy
+#### Un listado simple de los próximos proyectos a tratar en el Canal de YouTube / Udemy
 
 1. Crear un formulario de login para nuestra aplicación
 2. Crear formulario basado en modelos para crear un post aprovechando a un usuario logueado
