@@ -23,7 +23,7 @@
           * Sección para generar un pedido
           * Chequeo del pedido realizado (modificación de cantidades)
           * Envío de pedido / Notificaciones a la administración de la tienda
-       * Red social:
+      * Red social:
           * Sistema de usuarios registrados
           * Posts de usuario
           * Seguir usuarios
