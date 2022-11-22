@@ -32,3 +32,5 @@
           * Sistema de notificaciones
           * Likes / Dislikes / Cantidad de lecturas  
 8. Curso de github completo
+
+>Se aceptan sugerencias...
