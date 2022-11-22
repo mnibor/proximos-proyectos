@@ -4,11 +4,12 @@
 
 1. Crear un formulario de login para nuestra aplicación
 2. Crear un formulario de registro para nuestra aplicación
-2. Crear formulario basado en modelos para crear un post aprovechando a un usuario logueado
-3. Utilización de variables de entorno para aumentar la seguridad del proyecto realizado en Django
-4. Mapas de leaftlet + django: Crearemos una interfaz para cargar una ubicación geográfica, y luego de grabar ese registro, mostraremos un pin en el mapa que mostraremos en nuestra página
-5. Vistas basadas en clases
-6. Aplicación con VUE.js + Django + Django RestFramework: 
+3. Crear un perfil de usuario (extensión del sistema de usuarios de Django)
+4. Crear formulario basado en modelos para crear un post aprovechando a un usuario logueado
+5. Utilización de variables de entorno para aumentar la seguridad del proyecto realizado en Django
+6. Mapas de leaftlet + django: Crearemos una interfaz para cargar una ubicación geográfica, y luego de grabar ese registro, mostraremos un pin en el mapa que mostraremos en nuestra página
+7. Vistas basadas en clases
+8. Aplicación con VUE.js + Django + Django RestFramework: 
       * **Blog avanzado**:
           * Posts con comentarios de los lectores
           * Likes a publicaciones
@@ -32,7 +33,7 @@
           * Enviar mensajes privados
           * Sistema de notificaciones
           * Likes / Dislikes / Cantidad de lecturas  
-8. Curso de github completo
+9. Curso de github completo
 
 
 Nuestro canal en Youtube: *[Código para Principiantes](https://www.youtube.com/channel/UCojloc55DB6zD6zB7-kTWWQ)*
