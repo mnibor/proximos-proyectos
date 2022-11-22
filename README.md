@@ -5,6 +5,7 @@
 1. Crear un formulario de login para nuestra aplicación
 2. Crear un formulario de registro para nuestra aplicación
 3. Crear un perfil de usuario (extensión del sistema de usuarios de Django)
+4. Personalización del archivo settings.py
 4. Crear formulario basado en modelos para crear un post aprovechando a un usuario logueado
 5. Utilización de variables de entorno para aumentar la seguridad del proyecto realizado en Django
 6. Mapas de leaftlet + django: Crearemos una interfaz para cargar una ubicación geográfica, y luego de grabar ese registro, mostraremos un pin en el mapa que mostraremos en nuestra página
