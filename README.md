@@ -34,8 +34,6 @@
 8. Curso de github completo
 
 
-Nuestro canal en Youtube: *[Código para Principiantes][1]*
-
-[1]: (https://www.youtube.com/channel/UCojloc55DB6zD6zB7-kTWWQ)
+Nuestro canal en Youtube: *[Código para Principiantes](https://www.youtube.com/channel/UCojloc55DB6zD6zB7-kTWWQ)*
 
 >Se aceptan sugerencias...
