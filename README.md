@@ -36,6 +36,6 @@
 
 Nuestro canal en Youtube: *[Código para Principiantes][1]*
 
-[1]: [http://programminghistorian.org/](https://www.youtube.com/channel/UCojloc55DB6zD6zB7-kTWWQ)
+[1]: [https://www.youtube.com/channel/UCojloc55DB6zD6zB7-kTWWQ]
 
 >Se aceptan sugerencias...
