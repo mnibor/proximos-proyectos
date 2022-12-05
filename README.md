@@ -2,11 +2,11 @@
 
 ### Un listado simple de los próximos proyectos a tratar en el Canal de YouTube / Udemy
 
-1. Crear un formulario de login para nuestra aplicación https://youtu.be/6rMSouSx3II
-2. Crear un formulario de registro para nuestra aplicación https://youtu.be/6rMSouSx3II
+1. Crear un formulario de login para nuestra aplicación https://youtu.be/6rMSouSx3II  [COMPLETADO]
+2. Crear un formulario de registro para nuestra aplicación https://youtu.be/6rMSouSx3II [COMPLETADO]
 3. Crear un perfil de usuario (extensión del sistema de usuarios de Django)
 4. Personalización del archivo settings.py
-4. Crear formulario basado en modelos para crear un post aprovechando a un usuario logueado https://youtu.be/C0VeuC-6Ryw
+4. Crear formulario basado en modelos para crear un post aprovechando a un usuario logueado https://youtu.be/C0VeuC-6Ryw [COMPLETADO]
 5. Utilización de variables de entorno para aumentar la seguridad del proyecto realizado en Django
 6. Mapas de leaftlet + django: Crearemos una interfaz para cargar una ubicación geográfica, y luego de grabar ese registro, mostraremos un pin en el mapa que mostraremos en nuestra página
 7. Vistas basadas en clases
@@ -35,6 +35,7 @@
           * Sistema de notificaciones
           * Likes / Dislikes / Cantidad de lecturas  
 9. Curso de github completo
+10. Uso de la librería allauth
 
 
 Nuestro canal en Youtube: *[Código para Principiantes](https://www.youtube.com/channel/UCojloc55DB6zD6zB7-kTWWQ)*
