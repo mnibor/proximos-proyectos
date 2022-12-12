@@ -4,8 +4,8 @@
 
 1. Crear un formulario de login para nuestra aplicación https://youtu.be/6rMSouSx3II  [COMPLETADO]
 2. Crear un formulario de registro para nuestra aplicación https://youtu.be/6rMSouSx3II [COMPLETADO]
-3. Crear un perfil de usuario usando la misma tabla de usuarios (extensión del sistema de usuarios de Django)  [COMPLETADO]
-4. Crear un perfil de usuario creando una tabla Profile (extensión del sistema de usuarios de Django)
+3. Crear un perfil de usuario usando la misma tabla de usuarios (extensión del sistema de usuarios de Django) https://www.youtube.com/watch?v=x0f4guW1zuA&t=1s  [COMPLETADO]
+4. Crear un perfil de usuario creando una tabla Profile (extensión del sistema de usuarios de Django) https://www.youtube.com/watch?v=R8EHCohLvbw   [COMPLETADO]
 4. Personalización del archivo settings.py
 4. Crear formulario basado en modelos para crear un post aprovechando a un usuario logueado https://youtu.be/C0VeuC-6Ryw [COMPLETADO]
 5. Utilización de variables de entorno para aumentar la seguridad del proyecto realizado en Django
