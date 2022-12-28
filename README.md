@@ -39,6 +39,7 @@
 10. Uso de la librería allauth
 11. Compendio de Plugins recomendados para Visual Studio Code
 12. Lista de Reproducción de Recursos para programación web
+13. Como guardar los settings de Visual Studio Code en la nube https://youtube.com/playlist?list=PLxooeC3-xaNdMCNWK_E0kWgsEsH1dyqYq  [COMPLETADO]
 
 
 Nuestro canal en Youtube: *[Código para Principiantes](https://www.youtube.com/channel/UCojloc55DB6zD6zB7-kTWWQ)*
