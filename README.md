@@ -12,12 +12,11 @@
 6. Mapas de leaftlet + django: Crearemos una interfaz para cargar una ubicación geográfica, y luego de grabar ese registro, mostraremos un pin en el mapa que mostraremos en nuestra página
 7. Vistas basadas en clases https://youtube.com/playlist?list=PLxooeC3-xaNcB4Brb8BMFcpNMfO01wUKQ  [COMPLETADO]
 8. Aplicación con VUE.js + Django + Django RestFramework: 
-      * **Tienda online**:
+      * **Aplicación de Bookmarks**:
           * Sistema de usuarios registrados
-          * Listado de productos de la Tienda
-          * Sección para generar un pedido
-          * Chequeo del pedido realizado (modificación de cantidades)
-          * Envío de pedido / Notificaciones a la administración de la tienda
+          * Listado links almacenados
+          * Sección para buscar un link
+          * Posibilidad de crear, editar y eliminar un link
       * **Blog avanzado**:
           * Posts con comentarios de los lectores
           * Likes a publicaciones
