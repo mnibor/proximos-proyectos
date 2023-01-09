@@ -41,6 +41,10 @@
           * Sistema de notificaciones
           * Likes / Dislikes / Cantidad de lecturas  
 9. Curso de github completo
+10. Curso completo de Python https://youtube.com/playlist?list=PLxooeC3-xaNdDxRHAnXb3_yZtavAb3rr2   [EN PROCESO]
+11. Curso completo de HTML
+12. Curso completo de CSS
+13. Principios de Bootstrap
 10. Uso de la librería allauth
 11. Compendio de Plugins recomendados para Visual Studio Code
 12. Lista de Reproducción de Recursos para programación web
