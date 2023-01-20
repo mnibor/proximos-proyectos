@@ -9,7 +9,7 @@
 4. Personalización del archivo settings.py
 4. Crear formulario basado en modelos para crear un post aprovechando a un usuario logueado https://youtu.be/C0VeuC-6Ryw [COMPLETADO]
 5. Utilización de variables de entorno para aumentar la seguridad del proyecto realizado en Django
-6. Mapas de leaftlet + django: Crearemos una interfaz para cargar una ubicación geográfica, y luego de grabar ese registro, mostraremos un pin en el mapa que mostraremos en nuestra página
+6. Mapas de leaftlet + django: Crearemos una interfaz para cargar una ubicación geográfica, y luego de grabar ese registro, mostraremos un pin en el mapa que mostraremos en nuestra página (django-folium)
 7. Vistas basadas en clases https://youtube.com/playlist?list=PLxooeC3-xaNcB4Brb8BMFcpNMfO01wUKQ  [COMPLETADO]
 8. Aplicación con VUE.js + Django + Django RestFramework: 
       * **Aplicación de Bookmarks**:
@@ -47,6 +47,7 @@
 15. Compendio de Plugins recomendados para Visual Studio Code
 12. Lista de Reproducción de Recursos para programación web
 16. Curso completo de HTML
+17. Curso completo de JavaScript
 17. Curso completo de CSS
 18. Principios de Bootstrap
 19. Curso de Laravel
