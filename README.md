@@ -1,6 +1,6 @@
 # Próximos proyectos
 
-### Un listado simple de los próximos proyectos a tratar en el Canal de YouTube / Udemy
+### Un listado simple de los próximos proyectos a tratar en el Canal de YouTube
 
 1. Crear un formulario de login para nuestra aplicación https://youtu.be/6rMSouSx3II  [COMPLETADO]
 2. Crear un formulario de registro para nuestra aplicación https://youtu.be/6rMSouSx3II [COMPLETADO]
@@ -13,7 +13,7 @@
 7. Revisar django-leaflet
 7. Vistas basadas en clases https://youtube.com/playlist?list=PLxooeC3-xaNcB4Brb8BMFcpNMfO01wUKQ  [COMPLETADO]
 8. Aplicación con VUE.js + Django + Django RestFramework:
-      * **Aplicación de Panadería:
+      * **Aplicación de Panadería**:
           * Muestra de productos
           * Alta de productos
           * Sistema de login para usuarios administrativos
